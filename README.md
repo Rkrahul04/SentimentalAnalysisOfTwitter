@@ -1,4 +1,4 @@
-# SentimentalAnalysisOfTwitter
+
 
 ![IMAGE](http://1.bp.blogspot.com/-Bh0Aukob65c/UZUWewDInaI/AAAAAAAAABU/vLxco1NHVR8/s320/sentiment.jpg)
 
