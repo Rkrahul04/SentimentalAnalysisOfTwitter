@@ -1,6 +1,5 @@
 
-
-          ![IMAGE](http://1.bp.blogspot.com/-Bh0Aukob65c/UZUWewDInaI/AAAAAAAAABU/vLxco1NHVR8/s320/sentiment.jpg=100*200000)
+![IMAGE](http://1.bp.blogspot.com/-Bh0Aukob65c/UZUWewDInaI/AAAAAAAAABU/vLxco1NHVR8/s320/sentiment.jpg=100*200000)
 
 Here, we have shown the sentimental analysis of twitter data which is done with the apache flume. 
 
